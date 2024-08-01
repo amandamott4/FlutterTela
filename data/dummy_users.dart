@@ -1,4 +1,5 @@
-import 'package:crud/models/user.dart';
+
+import 'package:tela/models/user.dart';
 
 const dummyUsers = {
   '1': User(
